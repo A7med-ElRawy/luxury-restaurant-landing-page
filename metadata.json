@@ -1,0 +1,6 @@
+{
+  "name": "Luxury Restaurant Landing Page",
+  "description": "An elegant, high-converting, and immersive digital showcase for an ultra-premium fine dining restaurant. Crafted with deep warm palettes (#000000, #1F150C, #412D15, #E1DCC9) and refined interactive layouts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
